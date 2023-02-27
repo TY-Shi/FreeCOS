@@ -28,11 +28,11 @@ CUDA_VISIBLE_DEVICES=0 python test_DA_thresh.py
 ```
 
 #### 4. Trained models
-Trained models can be downloaded from here. [[Google Drive](https://drive.google.com/file/d/1wtATuEFbZPZ06k_C_T5gV59u-_eaH3cJ/view?usp=sharing)] [[Baidu Drive](https://pan.baidu.com/s/1_r3CFhW-qjJZD2nE5iIBzw) (download code: urc2) ].   
+Trained models can be downloaded from here. [[Google Drive](https://drive.google.com/drive/folders/1nLgsTQYKXHP3QlHg9RQmPuPNM3UKcCKY?usp=share_link)] [[Baidu Drive](https://pan.baidu.com/s/1_r3CFhW-qjJZD2nE5iIBzw) (download code: urc2) ].   
 Put the weights in the "logs/" directory.  
 
 #### 4. Trained Data
-Trained Data can be down from here. (you can generate different curvilinear data by our method or use the same generated curvilinear data as our experiment. Different generated curvilinear data will effect the performance)
+Trained Data can be down from here. [[Google Drive](https://drive.google.com/drive/folders/1nLgsTQYKXHP3QlHg9RQmPuPNM3UKcCKY?usp=share_link)] (you can generate different curvilinear data by our method or use the same generated curvilinear data as our experiment. Different generated curvilinear data will effect the performance)
 
 ## Future Work
 
