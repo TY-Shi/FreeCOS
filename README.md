@@ -15,7 +15,8 @@ python Data/XCAD/make_fakevessel.py #make_fakevessel.py is an example python scr
 
 ```bash
 
-CUDA_VISIBLE_DEVICES=0 python train_DA_contrast_liot_finalversion.py (CUDA_VISIBLE_DEVICES=0 python train_DA_contrast_liot_DRIVE_finalversion.py for DRIVE)
+CUDA_VISIBLE_DEVICES=0 python train_DA_contrast_liot_finalversion.py 
+#(CUDA_VISIBLE_DEVICES=0 python train_DA_contrast_liot_DRIVE_finalversion.py for DRIVE)
 
 ```
 
