@@ -1,7 +1,6 @@
 # FreeCOS
 FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation
 
-
 ## Usage
 
 #### 1.generate the curvilinear object images
@@ -32,13 +31,14 @@ CUDA_VISIBLE_DEVICES=0 python test_DA_thresh.py
 Trained models can be downloaded from here. [[Google Drive](https://drive.google.com/drive/folders/1nLgsTQYKXHP3QlHg9RQmPuPNM3UKcCKY?usp=share_link)] [[Baidu Drive](https://pan.baidu.com/s/1hyj-3rlQ8X_Fj9sTygpacA) (download code: 3w1a)].   
 Put the weights in the "logs/" directory.  
 
-#### 4. Trained Data
+#### 5. Trained Data
 Trained Data can be down from here. [[Google Drive](https://drive.google.com/drive/folders/1nLgsTQYKXHP3QlHg9RQmPuPNM3UKcCKY?usp=share_link)] [[Baidu Drive](https://pan.baidu.com/s/1hyj-3rlQ8X_Fj9sTygpacA) (download code: 3w1a)] (you can generate different curvilinear data by our method or use the same generated curvilinear data as our experiment. Different generated curvilinear data will effect the performance)
 
 ## Future Work
 
-FreeCOS will be continuously updated.
-Thanks for the parts of LIOT codes from "Local Intensity Order Transformation for Robust Curvilinear Object Segmentation" (https://github.com/TY-Shi/LIOT), we changes the LIOT to a online way in FreeCOS codes.
+-FreeCOS will be continuously updated.
+
+-Thanks for the parts of LIOT codes from "Local Intensity Order Transformation for Robust Curvilinear Object Segmentation" (https://github.com/TY-Shi/LIOT), we changes the LIOT to a online way in FreeCOS codes.
 
 ## Contact
 
