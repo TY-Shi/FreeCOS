@@ -1,6 +1,5 @@
 # FreeCOS
-FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation
-
+Pytorch implementation of the paper "FreeCOS: Self-Supervised Learning from Fractals and Unlabeled Images for Curvilinear Object Segmentation", Accepted by ICCV 2023. In this paper, we propose a novel self-supervised curvilinear object segmentation method that learns robust and distinctive features from fractals and unlabeled images (FreeCOS). To the best of our knowledge, FreeOCS is the first self-supervised learning method for various curvilinear object segmentation applications.
 ## Usage
 
 #### 1.generate the curvilinear object images
